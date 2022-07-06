@@ -35,6 +35,7 @@ function App() {
             Contribute
           </a>
         </div>
+        <button />
       </header>
     </div>
   );
